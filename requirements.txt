@@ -5,4 +5,8 @@ pandas
 scikit-learn
 torch
 pygame
-tkinter
+pyaudio
+ffmpeg
+pydub
+requests
+assemblyai

@@ -47,12 +47,12 @@ To use the AssemblyAI API for transcription, you need to create an account on th
 1. Go to the [AssemblyAI website](https://www.assemblyai.com/).
 2. Sign up for an account or log in if you already have one.
 3. Once logged in, navigate to the API section and copy your API key.
-4. Create a new file named `api_secrets.py` in the project directory.
+4. Open file named `api_secrets.py` in the project directory.
 5. Inside `api_secrets.py`, create a variable named `API_KEY_ASSEMBLYAI` and assign your API key to it.
 
 ```python
 API_KEY_ASSEMBLYAI = "your-api-key-goes-here"
-
+```
 
 ### Usage
 
